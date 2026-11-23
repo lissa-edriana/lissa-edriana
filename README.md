@@ -16,7 +16,7 @@ My academic interests include software development, web technologies, database m
 
 ### Current Project
 
-**Roomi – Chatbot-Driven Room Rental and Housemate Compatibility Web Application**
+**Roomi – A Chatbot-Driven Web Application For Room Rental and Housemate Compatibility Profiling**
 
 A Final Year Project exploring chatbot-based user profiling and housemate compatibility matching.
 
